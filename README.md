@@ -1,4 +1,4 @@
-![MasterHead]((https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?))
+![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
 <h1 align="center">Hi 👋, I'm AfnanAnsari748</h1>
 <h3 align="center">Mastering Data Science and AI/ML Engineering: From Insights to Implementation</h3>
