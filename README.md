@@ -13,7 +13,7 @@
 - 🏦 Built production AI at **Bank Alfalah** — RAG document assistants, XGBoost forecasting on 20M+ transactions, and anomaly-detection pipelines.
 - 🎓 Currently pursuing an **MSc in Computer Science** at **Philipps-Universität Marburg, Germany**.
 - 🔭 Working on **RAG systems, prompt engineering, and Generative AI applications**.
-- 🌱 Deepening skills in **LLM fine-tuning, MLOps, and scalable ML deployment**.
+- 🌱 Deepening skills in **LLM fine-tuning, CI/CD, Docker, MLOps, and scalable ML deployment**.
 - 💬 Ask me about **AI, NLP, LLMs, RAG, and Computer Vision**.
 - 📫 Reach me at **afnanansari4161594@gmail.com**
 
