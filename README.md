@@ -15,7 +15,7 @@
 - 🔭 Working on **RAG systems, prompt engineering, and Generative AI applications**.
 - 🌱 Deepening skills in **LLM fine-tuning, MLOps, and scalable ML deployment**.
 - 💬 Ask me about **AI, NLP, LLMs, RAG, and Computer Vision**.
-- 📫 Reach me at **afnanansari748@gmail.com**
+- 📫 Reach me at **afnanansari4161594@gmail.com**
 
 ---
 
