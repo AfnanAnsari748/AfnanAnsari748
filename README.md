@@ -12,7 +12,7 @@
 - 🤖 AI/ML Engineer focused on **NLP, Large Language Models, RAG systems, and production ML pipelines**.
 - 🏦 Built production AI at **Bank Alfalah** — RAG document assistants, XGBoost forecasting on 20M+ transactions, and anomaly-detection pipelines.
 - 🎓 Currently pursuing an **MSc in Computer Science** at **Philipps-Universität Marburg, Germany**.
-- 🔭 Working on **RAG systems, prompt engineering, and Generative AI applications**.
+- 🔭 Working on **enterprise RAG systems, LangGraph orchestration, and Generative AI applications**.
 - 🌱 Deepening skills in **LLM fine-tuning, CI/CD, Docker, MLOps, and scalable ML deployment**.
 - 💬 Ask me about **AI, NLP, LLMs, RAG, and Computer Vision**.
 - 📫 Reach me at **afnanansari4161594@gmail.com**
@@ -23,27 +23,40 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [enterprise-rag](https://github.com/AfnanAnsari748/enterprise-rag) | Production-ready RAG API — hybrid BM25 + semantic retrieval, CrossEncoder reranking, LangGraph orchestration, and local LLM generation over private PDF collections | FastAPI, LangGraph, ChromaDB, SentenceTransformers, Qwen2.5 |
+| [Afnan_Resume_Agent](https://github.com/AfnanAnsari748/Afnan_Resume_Agent) | Multi-agent resume builder that researches, writes, and compiles a LaTeX PDF resume autonomously | LangGraph, Claude API, Overleaf |
+| [RAG_ChatAgent](https://github.com/AfnanAnsari748/RAG_ChatAgent) | Conversational RAG chat agent with document ingestion and multi-turn memory | LangChain, FastAPI, ChromaDB |
 | [Dog-Emotion-Prediction](https://github.com/AfnanAnsari748/Dog-Emotion-Prediction) | Image classifier for 4 dog emotions via InceptionV3 transfer learning | TensorFlow, Keras, OpenCV |
 | [Face_Recognition](https://github.com/AfnanAnsari748/Face_Recognition) | Real-time webcam face recognition with MTCNN + DeepFace embeddings | OpenCV, DeepFace, MTCNN |
 | [Pothole-Detector-Application](https://github.com/AfnanAnsari748/Pothole-Detector-Application) | Computer-vision pothole detection with geo-tagged reporting | TensorFlow, Python |
-| [Codsoft-Internship---DataScience](https://github.com/AfnanAnsari748/Codsoft-Internship---DataScience) | Data-science internship tasks: Titanic, Sales & Movie prediction | scikit-learn, pandas |
 
 ---
 
 ### 🛠️ Tech Stack
 
+**AI / ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**LLMs & RAG**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-9B59B6?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Data & Compute**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
