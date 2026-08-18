@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afnan Ansari</h1>
-<h3 align="center">AI & Automation Engineer · LLMs · RAG Systems · MSc Computer Science @ Philipps-Universität Marburg</h3>
+  <h3 align="center">AI & ML Engineer · LLMs · RAG Systems · MSc Computer Science @ Philipps-Universität Marburg</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afnanansari748&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 **AI & Automation Engineer** with expertise in LLM-powered solutions, RAG pipelines, and AI-driven automations.
+- 🤖 **AI & ML Engineer** with expertise in LLM-powered solutions, RAG pipelines, and AI-driven automations.
 - 🏦 Built production AI at **Bank Alfalah** — RAG chatbot for enterprise document retrieval, XGBoost forecasting on 20M+ transactions (MAPE 10%), and anomaly detection pipelines.
 - 🏢 Former **AI/ML Engineer at Property Wallet** — LLM conversational AI with GPT APIs & LangChain, recommendation systems, biometric authentication.
 - 🎓 Currently pursuing **MSc in Computer Science** at **Philipps-Universität Marburg, Germany**.
