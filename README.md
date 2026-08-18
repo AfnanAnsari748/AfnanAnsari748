@@ -16,19 +16,6 @@
 - 🔭 Building **enterprise RAG systems, LangGraph orchestration pipelines, and Generative AI applications**.
 - 🌱 Deepening skills in **LLM fine-tuning, MLOps, Docker, CI/CD, and scalable AI deployment**.
 - 💬 Ask me about **AI, NLP, LLMs, RAG Pipelines, and Computer Vision**.
-- 📫 **afnanansari4161594@gmail.com** · 📞 +49 177 3689470
-
----
-
-### 💼 Professional Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| Officer Grade II – AI/ML Engineer | Bank Alfalah (ITG, ML Architecture) | Sep 2025 – Jun 2026 |
-| Freelance AI/ML/DL Engineer | Self-Employed | Dec 2024 – Aug 2025 |
-| Officer Grade III – Digital Fraud Control | Faysal Bank | Feb 2025 – Jul 2025 |
-| Junior AI/ML Engineer | Property Wallet | Jan 2024 – Nov 2024 |
-| Data Science Intern | CODSOFT | Oct 2023 – Nov 2023 |
 
 ---
 
